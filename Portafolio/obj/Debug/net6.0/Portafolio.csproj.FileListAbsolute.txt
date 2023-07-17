@@ -1,0 +1,62 @@
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Portafolio.props
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+D:\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\bajis\Documents\Proyectos\Portafolio\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
